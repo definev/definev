@@ -13,5 +13,5 @@
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=definev&show_icons=true" alt="definev" /> </p>
 
 <p align="center">
-<a href="https://fb.com/https://www.facebook.com/definev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/definev" height="20" width="20" /></a>
+<a href="https://fb.com/definev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="definev" height="20" width="20" /></a>
 </p>
