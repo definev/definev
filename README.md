@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bui Dai Duong</h1>
-<h3 align="center">A guy passionate about programming, eager to learn.</h3>
+<h3 align="center">A guy who is passionate about programming, eager to learn.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=definev" alt="definev" /> </p>
 
 - 🔭 I’m currently working on **Sojo Hotel**
