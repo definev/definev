@@ -2,8 +2,6 @@
 <h3 align="center"></h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=definev" alt="definev" /> </p>
 
-- 🔭 I’m currently working on **Sojo Hotel**
-
 - 👨‍💻 All of my projects are available at [https://github.com/definev](https://github.com/definev)
 
 - 💬 Ask me about **Flutter**
