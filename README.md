@@ -4,9 +4,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/definev](https://github.com/definev)
 
-- 💬 Ask me about **Flutter**
+- 🌻 Member of Kode opensource team.
 
-- 📫 How to reach me **big.plus.uwu@gmail.com**
+- 💬 Ask me about **Flutter**, **React** and **Golang**.
+
+- 📫 How to reach me **daiduong.workmail@gmail.com**
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=definev&show_icons=true" alt="definev" /> </p>
 
