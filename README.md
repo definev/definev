@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Flutter**, **React** and **Golang**.
 
-- 📫 How to reach me **daiduong.workmail@gmail.com**
+- 📫 How to reach me **duong.bui@hapi.solutions**
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=definev&show_icons=true" alt="definev" /> </p>
 
