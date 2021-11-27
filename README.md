@@ -3,8 +3,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/definev](https://github.com/definev)
 
-- 🌻 Member of Kode opensource team.
-
 - 💬 Ask me about **Flutter**, **React** and **Golang**.
 
 - 📫 How to reach me **duong.bui@hapi.solutions**
